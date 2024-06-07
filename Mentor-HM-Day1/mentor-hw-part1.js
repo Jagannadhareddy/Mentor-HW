@@ -148,6 +148,3 @@ console.log(arrObjNames); // [ 'jagan', 'tharun', 'mayank', 'ashok', 'Bhaskar' ]
 
 
 
-
-
-
